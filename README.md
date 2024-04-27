@@ -18,7 +18,7 @@ Check out the live demo [here](https://airquality-visual.vercel.app/).
 1. Clone the repository:
 
    ```
-   git clone https://github.com/your-username/air-quality-visualization.git
+   git clone https://github.com/sk-upadhyay/air-quality-visualization.git
    ```
 
 2. Navigate into the project directory:
@@ -58,6 +58,3 @@ This project utilizes the following libraries and frameworks:
 
 Contributions are welcome! Feel free to open an issue or submit a pull request.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
