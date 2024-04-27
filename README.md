@@ -4,7 +4,7 @@ This project is a web application built with React.js for the front end and Vue.
 
 ## Demo
 
-Check out the live demo [here](https://your-vercel-project.vercel.app).
+Check out the live demo [here](https://airquality-visual.vercel.app/).
 
 ## Features
 
